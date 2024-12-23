@@ -19,6 +19,9 @@ function SubHeader() {
         <li><Link to="/Bidder" className='sub-header-content'>Bidder</Link></li>
         <li><Link to="/AuctionCreator" className='sub-header-content'>AuctionCreater</Link></li>
         <li><Link to="/AuctionCreator" className='sub-header-content'>AuctionManager</Link></li>
+        <li><a href="https://t.me/Auctioncompanion_Bot" className="sub-header-content" target="_blank" rel="noopener noreferrer">
+    AiAgent
+  </a></li>
         
       </ul>
     </nav>
