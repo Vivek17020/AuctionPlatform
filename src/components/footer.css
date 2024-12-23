@@ -1,0 +1,22 @@
+.footer {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: flex-end;
+    /* flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px; */
+  }
+  
+  .column {
+    /* margin: 5px;
+    padding: 5px; */
+    /* background-color: #f0f0f0; */
+    /* border-radius: 5px; */
+    /* text-align: center;
+    margin-top: 2px; */
+  }
+.row{
+    display: flex;
+    justify-content: column;
+  }

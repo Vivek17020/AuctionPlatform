@@ -1,0 +1,33 @@
+.Header-Container{
+  border-radius: 4px;
+  background: linear-gradient(145deg, #cacaca, #f0f0f0);
+  box-shadow:  5px 5px 10px #a6a6a6,
+               -5px -5px 10px #ffffff;
+}
+.navbar {
+  margin-right:2rem;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row-reverse;
+}
+.header {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  list-style-type: none;
+}
+
+.header-content {
+  margin-top: 1rem;
+  text-decoration: none;
+  padding:6px;
+  color: black;
+  font-weight: 600;
+  background-color: #ffffff;
+  border-radius: 4px;
+  background: #e0e0e0;
+  box-shadow:  5px 5px 10px #bcbcbc,
+               -5px -5px 10px #ffffff;
+ 
+}
